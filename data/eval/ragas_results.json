@@ -1,0 +1,132 @@
+[
+  {
+    "id":"anp-caution",
+    "user_input":"Quelle est la caution provisoire du marché ANP ?",
+    "response":"La caution provisoire du marché ANP est fixée à 430 000,00 dirhams [S1][S2].",
+    "reference":"Le cautionnement provisoire du marché ANP n°37\/AOOI\/DPSR-ANP\/2026 est fixé à 430 000 dirhams.",
+    "faithfulness":null,
+    "answer_relevancy":0.9897469651,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"anp-ouverture",
+    "user_input":"Quelle est la date et l'heure d'ouverture des plis du marché ANP ?",
+    "response":"L’ouverture des plis est prévue le 14\/09\/2026 à 11 h00. [S1][S2]",
+    "reference":"L'ouverture des plis du marché ANP a lieu le 14\/09\/2026 à 11H00 dans les bureaux de la Direction du port de Safi et Région.",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"anp-estimation",
+    "user_input":"Quelle est l'estimation du coût des prestations du marché ANP ?",
+    "response":"L’estimation du coût des prestations du marché ANP est de 27 839 290,80 dirhams toutes taxes comprises [S1][S2].",
+    "reference":"L'estimation du coût des prestations établie par le maître d'ouvrage est de 27 839 290,80 dirhams TTC.",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"anp-visite-lieux",
+    "user_input":"Quand a lieu la visite des lieux du marché ANP ?",
+    "response":"La visite des lieux est prévue le 02\/09\/2026 à 11 h 00. [S1]",
+    "reference":"La visite des lieux et la réunion d'information ont lieu le 02\/09\/2026 à 11H00.",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"anp-rectificatif-objet",
+    "user_input":"Que modifie l'avis rectificatif n°1 du marché ANP ?",
+    "response":"L’avis rectificatif n° 1 modifie l’objet de l’appel d’offres : le texte passe de « FOURNITURE INSTALLATION ET MISE EN SERVICE D’UN SYSTÈME DE VIDÉOSURVEILLANCE ET CONTRÔLE D’ACCÈS AU NOUVEAU PORT DE SAFI » à « FOURNITURE, INSTALLATION, MISE EN SERVICE ET MAINTENANCE D’UN SYSTÈME DE VIDÉOSURVEILLANCE ET CONTRÔLE D’ACCÈS AU NOUVEAU PORT DE SAFI » [S1][S2].  \nIl précise également le montant de la partie maintenance annuelle : 720 000,00 DH TTC [S1][S2].",
+    "reference":"L'avis rectificatif n°1 modifie l'objet de l'appel d'offres, qui inclut désormais la maintenance du système de vidéosurveillance et de contrôle d'accès, et ajoute une estimation de la maintenance annuelle.",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"anp-maintenance-annuelle",
+    "user_input":"Quel est le montant de l'estimation de la maintenance annuelle du marché ANP ?",
+    "response":"Le montant de l’estimation de la maintenance annuelle est de **720 000,00 dirhams** TTC[S1]",
+    "reference":"L'estimation de la partie maintenance annuelle est de 720 000 dirhams TTC.",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"fnuap-definitif",
+    "user_input":"Quel est le pourcentage du cautionnement définitif dans le CPS FNUAP ?",
+    "response":"Le pourcentage du cautionnement définitif est de trois pour cent (3 %) du montant initial du marché [S1][S2].",
+    "reference":"Le cautionnement définitif est fixé à 3 % du montant initial du marché.",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"berd-ouverture",
+    "user_input":"Quelle est la date d'ouverture des plis pour le marché BERD ?",
+    "response":"Le jeudi 12 novembre 2026 à 14 h (heure britannique) [S1].",
+    "reference":"L'ouverture des plis du marché BERD a lieu le jeudi 12 novembre 2026 à 14 h (heure britannique).",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"eligibilite-concurrents",
+    "user_input":"Quels sont les critères d'éligibilité des concurrents ?",
+    "response":"Pour les marchés de travaux et de fournitures, les critères d’éligibilité de base sont : les garanties fournies et les capacités juridiques, techniques et financières du concurrent ; les références professionnelles le cas échéant ; l’importance du plan de charge le cas échéant ; et, pour les travaux, l’implantation du concurrent dans la région concernée le cas échéant [S1][S4].  \nLorsque la présentation d’une offre technique est exigée, ces critères peuvent être complétés par : les ressources humaines et les moyens matériels à affecter au chantier ; l’expérience spécifique et le profil du personnel ; le nombre et l’expérience des artisans ou maîtres‑artisans engagés ; le planning de réalisation proposé ; les méthodes et procédés de construction ; les qualités esthétiques et fonctionnelles de la prestation ; les performances liées à la protection de l’environnement et au développement durable ; le développement des énergies renouvelables et de l’efficacité énergétique ; ainsi que la préservation des ressources hydriques [S3].  \nPour les marchés de services, les critères d’éligibilité supplémentaires prévus lorsque l’offre technique est requise comprennent : la méthodologie proposée ; les ressources humaines et les moyens matériels à mobiliser ; le chronogramme d’affectation des ressources humaines ; le caractère innovant de l’offre ; la qualité de l’assistance technique ; le degré de transfert de compétences et de connaissances ; et les garanties fournies par les concurrents [S5].",
+    "reference":"Les critères portent sur les garanties et les capacités juridiques, techniques et financières, les références professionnelles et le plan de charge du concurrent.",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"pieces-justificatives",
+    "user_input":"Quelles pièces justificatives doivent fournir les concurrents ?",
+    "response":"Les concurrents doivent fournir, au moment de la présentation de leurs offres, une déclaration sur l’honneur conforme à l’article 26 du décret ainsi que l’original du récépissé du cautionnement provisoire ou l’attestation de caution personnelle et solidaire [S2].  \nSelon leur forme juridique, ils doivent ajouter : la convention constitutive légalisée du groupement (le cas échéant), le texte habilitant l’établissement public, l’attestation d’immatriculation au registre local des coopératives ou, pour un auto‑entrepreneur, l’attestation d’immatriculation au registre national délivrée depuis moins d’un an [S1][S2][S4].  \nUn dossier technique doit être présenté, comprenant une note détaillant les moyens humains et techniques ainsi que des attestations de prestations similaires réalisées au cours des dix dernières années [S3].  \nIls doivent également fournir une attestation de situation fiscale délivrée depuis moins d’un an par la Caisse nationale de sécurité sociale ou tout autre organisme de prévoyance sociale, ainsi qu’une copie du certificat d’immatriculation au registre de commerce (modèle 9) [S5].  \nEnfin, des copies certifiées conformes des autorisations requises, les pièces justificatives de nationalité pour les marchés de défense ou de sécurité, et les équivalents des attestations pour les concurrents étrangers sont exigées [S5].",
+    "reference":"La liste des pièces justificatives à fournir par les concurrents est fixée par l'article 9 du règlement de consultation.",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"decret-cautionnement-provisoire",
+    "user_input":"Que prévoit la réglementation sur le cautionnement provisoire ?",
+    "response":"Le cahier des prescriptions spéciales détermine, conformément à la législation en vigueur, le niveau des garanties à fournir par chaque concurrent lorsqu’un maître d’ouvrage exige un cautionnement provisoire [S1]. Le montant du cautionnement provisoire ne doit pas dépasser deux pour cent (2 %) du montant de l’estimation du coût des prestations établie par le maître d’ouvrage [S2]. Si le cahier des prescriptions spéciales ne prévoit pas de cautionnement provisoire, une pénalité d’un pour cent (1 %) du montant de l’estimation est appliquée au concurrent concerné [S2]. Dans le cadre du CPS de l’AO n°1‑2019‑MF‑FNUAP, le montant du cautionnement provisoire est fixé spécifiquement pour chaque lot (ex. 20 000,00 DH pour le lot 1, 9 000,00 DH pour le lot 2, etc.) et doit être constitué dans les vingt (20) jours suivant la notification de l’approbation du marché [S4]. En cas de groupement, le cautionnement provisoire peut être souscrit au nom collectif du groupement ou par un ou plusieurs membres, le récépissé devant préciser le cadre du groupement [S5].",
+    "reference":"Le cautionnement provisoire est prévu par l'article 24 du décret n° 2-22-431.",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"decret-ouverture-plis",
+    "user_input":"Comment se déroule la séance d'ouverture des plis ?",
+    "response":"La séance d’ouverture des plis est publique et se tient au lieu, au jour et à l’heure prévus par l’avis d’appel d’offres, la lettre d’admission ou la lettre circulaire ; si le jour est férié ou chômé, elle a lieu le jour ouvrable suivant à la même heure[S1][S2][S3][S5].  \nLe président du jury ou de la commission (ou de la commission d’appel d’offres avec présélection) ouvre la séance[S1][S2][S3][S5].  \nIl invite les concurrents présents qui n’ont pas déposé leurs plis à les remettre immédiatement, puis ceux dont le dossier est incomplet à fournir les pièces manquantes sous enveloppe fermée portant la mention « pièces manquantes », après quoi la liste des plis reçus est arrêtée définitivement[S1][S2][S3][S5].  \nAucun dépôt, retrait ou complément de pièces n’est accepté après cette formalité[S1][S2][S3][S5].  \nLe président s’assure de la présence des membres dont la présence est obligatoire ; en cas d’absence, il invite les membres présents à parapher les plis[S1][S2][S3][S5].",
+    "reference":"L'ouverture des plis est encadrée par l'article 39 du décret n° 2-22-431.",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  },
+  {
+    "id":"ar-caution-anp",
+    "user_input":"ما هو مبلغ الضمان المؤقت لطلب العروض الخاص بميناء أسفي ؟",
+    "response":"مبلغ الضمان المؤقت لطلب العروض الخاص بميناء أسفي هو 430 000,00 درهم. [S1]",
+    "reference":"الضمان المؤقت محدد في مبلغ 430 000,00 درهم.",
+    "faithfulness":null,
+    "answer_relevancy":null,
+    "context_recall":null,
+    "llm_context_precision_with_reference":null
+  }
+]

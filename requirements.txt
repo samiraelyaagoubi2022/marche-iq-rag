@@ -1,0 +1,14 @@
+pymupdf
+pytesseract
+pillow
+sentence-transformers==3.4.1
+qdrant-client
+rank-bm25
+python-dotenv
+pytest
+pyzbar
+groq
+langchain-community>=0.4,<0.4.2
+datasets>=4.0.0,<5
+huggingface-hub>=0.34,<1.0
+streamlit

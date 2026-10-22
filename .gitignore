@@ -1,0 +1,23 @@
+# Environnement virtuel
+venv/
+.venv/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Secrets et configurations
+.env
+.env.local
+
+# Logs et données temporaires
+logs/
+*.log
+test_arabe.txt
+
+# OS
+.DS_Store
+Thumbs.db

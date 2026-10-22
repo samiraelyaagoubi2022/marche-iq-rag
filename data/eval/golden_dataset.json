@@ -1,0 +1,127 @@
+[
+  {
+    "id": "anp-caution",
+    "category": "factuel",
+    "question": "Quelle est la caution provisoire du marché ANP ?",
+    "reference": "Le cautionnement provisoire du marché ANP n°37/AOOI/DPSR-ANP/2026 est fixé à 430 000 dirhams.",
+    "expected_docs": ["ANP"],
+    "context_contains": ["430000"],
+    "answer_contains": ["430000"],
+    "answer_not_contains": ["720000"]
+  },
+  {
+    "id": "anp-ouverture",
+    "category": "factuel",
+    "question": "Quelle est la date et l'heure d'ouverture des plis du marché ANP ?",
+    "reference": "L'ouverture des plis du marché ANP a lieu le 14/09/2026 à 11H00 dans les bureaux de la Direction du port de Safi et Région.",
+    "expected_docs": ["ANP"],
+    "context_contains": ["14/09/2026"],
+    "answer_contains": ["14/09/2026", "11h|11:00"]
+  },
+  {
+    "id": "anp-estimation",
+    "category": "factuel",
+    "question": "Quelle est l'estimation du coût des prestations du marché ANP ?",
+    "reference": "L'estimation du coût des prestations établie par le maître d'ouvrage est de 27 839 290,80 dirhams TTC.",
+    "expected_docs": ["ANP"],
+    "context_contains": ["27839290"],
+    "answer_contains": ["27839290"]
+  },
+  {
+    "id": "anp-visite-lieux",
+    "category": "factuel",
+    "question": "Quand a lieu la visite des lieux du marché ANP ?",
+    "reference": "La visite des lieux et la réunion d'information ont lieu le 02/09/2026 à 11H00.",
+    "expected_docs": ["ANP"],
+    "context_contains": ["02/09/2026"],
+    "answer_contains": ["02/09/2026|2/9/2026|2septembre2026"]
+  },
+  {
+    "id": "anp-rectificatif-objet",
+    "category": "rectificatif",
+    "question": "Que modifie l'avis rectificatif n°1 du marché ANP ?",
+    "reference": "L'avis rectificatif n°1 modifie l'objet de l'appel d'offres, qui inclut désormais la maintenance du système de vidéosurveillance et de contrôle d'accès, et ajoute une estimation de la maintenance annuelle.",
+    "expected_docs": ["RECTIF"],
+    "answer_contains": ["maintenance"]
+  },
+  {
+    "id": "anp-maintenance-annuelle",
+    "category": "rectificatif",
+    "question": "Quel est le montant de l'estimation de la maintenance annuelle du marché ANP ?",
+    "reference": "L'estimation de la partie maintenance annuelle est de 720 000 dirhams TTC.",
+    "expected_docs": ["RECTIF"],
+    "context_contains": ["720000"],
+    "answer_contains": ["720000"]
+  },
+  {
+    "id": "fnuap-definitif",
+    "category": "factuel",
+    "question": "Quel est le pourcentage du cautionnement définitif dans le CPS FNUAP ?",
+    "reference": "Le cautionnement définitif est fixé à 3 % du montant initial du marché.",
+    "expected_docs": ["FNUAP"],
+    "context_contains": ["3%|troispourcent"],
+    "answer_contains": ["3%|troispourcent"],
+    "note": "A vérifier à la main dans le CPS FNUAP, article 12 (p.7)."
+  },
+  {
+    "id": "berd-ouverture",
+    "category": "factuel",
+    "question": "Quelle est la date d'ouverture des plis pour le marché BERD ?",
+    "reference": "L'ouverture des plis du marché BERD a lieu le jeudi 12 novembre 2026 à 14 h (heure britannique).",
+    "expected_docs": ["BERD"],
+    "answer_contains": ["12novembre2026|12/11/2026"]
+  },
+  {
+    "id": "eligibilite-concurrents",
+    "category": "sans_document",
+    "question": "Quels sont les critères d'éligibilité des concurrents ?",
+    "reference": "Les critères portent sur les garanties et les capacités juridiques, techniques et financières, les références professionnelles et le plan de charge du concurrent.",
+    "expected_docs": ["Decret", "Reglement"],
+    "answer_contains": ["capacit"]
+  },
+  {
+    "id": "pieces-justificatives",
+    "category": "sans_document",
+    "question": "Quelles pièces justificatives doivent fournir les concurrents ?",
+    "reference": "La liste des pièces justificatives à fournir par les concurrents est fixée par l'article 9 du règlement de consultation.",
+    "expected_docs": ["Reglement"],
+    "expected_titles": ["pieces justificatives"]
+  },
+  {
+    "id": "decret-cautionnement-provisoire",
+    "category": "sans_document",
+    "question": "Que prévoit la réglementation sur le cautionnement provisoire ?",
+    "reference": "Le cautionnement provisoire est prévu par l'article 24 du décret n° 2-22-431.",
+    "expected_docs": ["Decret"],
+    "expected_titles": ["cautionnement provisoire"]
+  },
+  {
+    "id": "decret-ouverture-plis",
+    "category": "sans_document",
+    "question": "Comment se déroule la séance d'ouverture des plis ?",
+    "reference": "L'ouverture des plis est encadrée par l'article 39 du décret n° 2-22-431.",
+    "expected_docs": ["Decret"],
+    "expected_titles": ["ouverture des plis"]
+  },
+  {
+    "id": "ar-caution-anp",
+    "category": "arabe",
+    "question": "ما هو مبلغ الضمان المؤقت لطلب العروض الخاص بميناء أسفي ؟",
+    "reference": "الضمان المؤقت محدد في مبلغ 430 000,00 درهم.",
+    "expected_docs": ["AVIS AR AO"],
+    "context_contains": ["430000"],
+    "answer_contains": ["430000"]
+  },
+  {
+    "id": "negatif-attributaire",
+    "category": "negatif",
+    "question": "Quel est le nom de l'entreprise attributaire du marché ANP ?",
+    "answerable": false
+  },
+  {
+    "id": "negatif-signature",
+    "category": "negatif",
+    "question": "Quelle est la date de signature du contrat du marché ANP ?",
+    "answerable": false
+  }
+]
