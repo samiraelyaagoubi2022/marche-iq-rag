@@ -1,20 +1,4 @@
-Félicitations pour avoir réussi à pousser votre projet sur GitHub ! C'est une excellente étape.
 
-Maintenant, il faut soigner la façade. Un bon fichier `README.md` est crucial : c'est la première chose que verront vos professeurs ou un recruteur. Il doit être clair, professionnel et bien structuré.
-
-Voici un modèle complet de `README.md` que vous pouvez copier-coller. Il détaille votre travail, les technologies utilisées et comment lancer le projet.
-
-### Comment faire :
-1. Dans votre dossier de projet (sur votre PC), créez un fichier nommé exactement `README.md`.
-2. Ouvrez-le avec un éditeur de texte (Bloc-notes, VS Code, etc.).
-3. Copiez-collez le code ci-dessous.
-4. Sauvegardez, puis faites un `git add .`, `git commit -m "Ajout du README"` et `git push` pour le mettre en ligne.
-
----
-
-### 📄 Modèle de README à copier-coller :
-
-```markdown
 # 📑 MarchéIQ - Assistant RAG pour l'analyse d'appels d'offres
 
 MarchéIQ est un assistant intelligent basé sur l'architecture **RAG (Retrieval-Augmented Generation)**. Il permet d'interroger en langage naturel des documents d'appels d'offres publics (CPS, Règlement de Consultation, Avis) et de fournir des réponses précises, **toujours accompagnées des sources exactes** (document, page et passage).
