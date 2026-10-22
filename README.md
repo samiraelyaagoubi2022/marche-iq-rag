@@ -103,4 +103,4 @@ marche-iq/
 Le projet inclut un dossier `data/eval/` avec des résultats d'évaluation générés via le framework **Ragas**, permettant de mesurer la fidélité (faithfulness) et la pertinence des réponses générées par rapport aux contextes récupérés.
 
 ## 👨‍💻 Auteur
-**[Samira EL YAAGOUBI**
+**[Samira EL YAAGOUBI]**
